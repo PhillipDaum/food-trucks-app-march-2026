@@ -62,7 +62,7 @@ By doing this activity together, we will practice...
    - If it says “main” instead of “new-feature”, that means you are currently on the main branch. Click on the branch name to switch the branch you’re on in VS Code.
    - From now on, you should always check which branch you’re in before you write any code — you don’t want to accidentally write code in the wrong branch! Generally, you only write code in a feature branch or a develop branch, never in the main branch.
 
-### 3. Edit the SQL-cheatsheet.md file in your `new-feature` branch
+### 3. Edit the index.js file in your `new-feature` branch
 
 1. You have been assigned an API endpoint. Your task is to:
    1. Complete the API endpoint (with either `app.get()` or `app.post()`
